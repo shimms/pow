@@ -26,6 +26,9 @@
                ERRR
                G       Knock Out Rails & Rack Apps Like A Superhero.
 
+## pow has been deprecated - migrate to puma-dev
+
+0.6.0 was the most recent, and likely final, release for the forseeable future. Check out [puma-dev](https://github.com/puma/puma-dev#readme) for a contemporary alternative.
 
 ## Pow is a zero-config Rack server for Mac OS X.
 
